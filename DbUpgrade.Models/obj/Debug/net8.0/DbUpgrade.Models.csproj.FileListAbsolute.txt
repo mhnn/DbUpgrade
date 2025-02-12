@@ -1,0 +1,20 @@
+C:\Users\admin\source\repos\DbUp - 副本\DbUpgrade.Models\bin\Debug\net8.0\DbUpgrade.Models.deps.json
+C:\Users\admin\source\repos\DbUp - 副本\DbUpgrade.Models\bin\Debug\net8.0\DbUpgrade.Models.dll
+C:\Users\admin\source\repos\DbUp - 副本\DbUpgrade.Models\bin\Debug\net8.0\DbUpgrade.Models.pdb
+C:\Users\admin\source\repos\DbUp - 副本\DbUpgrade.Models\obj\Debug\net8.0\DbUpgrade.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\DbUp - 副本\DbUpgrade.Models\obj\Debug\net8.0\DbUpgrade.Models.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DbUp - 副本\DbUpgrade.Models\obj\Debug\net8.0\DbUpgrade.Models.AssemblyInfo.cs
+C:\Users\admin\source\repos\DbUp - 副本\DbUpgrade.Models\obj\Debug\net8.0\DbUpgrade.Models.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DbUp - 副本\DbUpgrade.Models\obj\Debug\net8.0\DbUpgrade.Models.dll
+C:\Users\admin\source\repos\DbUp - 副本\DbUpgrade.Models\obj\Debug\net8.0\refint\DbUpgrade.Models.dll
+C:\Users\admin\source\repos\DbUp - 副本\DbUpgrade.Models\obj\Debug\net8.0\DbUpgrade.Models.pdb
+C:\Users\admin\source\repos\DbUp - 副本\DbUpgrade.Models\obj\Debug\net8.0\ref\DbUpgrade.Models.dll
+D:\Documents\ProjectManagement\DbUpgrade\DbUpgrade.Models\bin\Debug\net8.0\DbUpgrade.Models.deps.json
+D:\Documents\ProjectManagement\DbUpgrade\DbUpgrade.Models\bin\Debug\net8.0\DbUpgrade.Models.dll
+D:\Documents\ProjectManagement\DbUpgrade\DbUpgrade.Models\obj\Debug\net8.0\DbUpgrade.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ProjectManagement\DbUpgrade\DbUpgrade.Models\obj\Debug\net8.0\DbUpgrade.Models.AssemblyInfoInputs.cache
+D:\Documents\ProjectManagement\DbUpgrade\DbUpgrade.Models\obj\Debug\net8.0\DbUpgrade.Models.AssemblyInfo.cs
+D:\Documents\ProjectManagement\DbUpgrade\DbUpgrade.Models\obj\Debug\net8.0\DbUpgrade.Models.csproj.CoreCompileInputs.cache
+D:\Documents\ProjectManagement\DbUpgrade\DbUpgrade.Models\obj\Debug\net8.0\DbUpgrade.Models.dll
+D:\Documents\ProjectManagement\DbUpgrade\DbUpgrade.Models\obj\Debug\net8.0\refint\DbUpgrade.Models.dll
+D:\Documents\ProjectManagement\DbUpgrade\DbUpgrade.Models\obj\Debug\net8.0\ref\DbUpgrade.Models.dll
