@@ -1,2 +1,6 @@
-DbUpgrade/**/obj
-DbUpgrade/**/bin
+DbUpgrade/obj
+DbUpgrade/bin
+DbUpgrade.Models/obj
+DbUpgrade.Models/bin
+DbUpgrade.Util/obj
+DbUpgrade.Util/bin
